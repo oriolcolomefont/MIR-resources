@@ -22,4 +22,4 @@ Until proper citations are added, please do not use these resources in any publi
 
 ---
 
-Last updated: [Current Date]
+Last updated: <!-- LAST_UPDATED -->
